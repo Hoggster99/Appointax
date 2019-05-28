@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Appointax</string>
+
+    <string-array name="options">
+        <item>Appointment 1</item>
+        <item>Cancel</item>
+        <item>Reschedule</item>
+    </string-array>
+
+    <string-array name="options2">
+        <item>Appointment 2</item>
+        <item>Cancel</item>
+        <item>Reschedule</item>
+    </string-array>
+
+    <string-array name="options3">
+        <item>Appointment 3</item>
+        <item>Cancel</item>
+        <item>Reschedule</item>
+    </string-array>
+</resources>
